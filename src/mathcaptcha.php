@@ -76,7 +76,7 @@ class Captcha {
     }
     return $factors;
   }
-  public function generateCaptcha() {
+  private function generateCaptcha() {
     $factors = $this->primeFactors($this->num);
     foreach ($factors as $key => $value) {
       if (mt_rand(0,1)) {
