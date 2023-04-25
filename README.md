@@ -8,13 +8,13 @@ Can you solve it? (No calculators allowed!)
 <details>
  <summary>Show Solution</summary>
  
- 73*2*2*4*(2+1)
+ 73\*2\*2\*4\*(2+1)
  
- = 73*2*2*4*3
+ = 73\*2\*2\*4\*3
  
- = 73 * 4 * 12
+ = 73\*4\*12
  
- = 73 * 48
+ = 73\*48 (OK fine you can use a calculator on this one)
  
  = 3504
  
