@@ -1,5 +1,7 @@
 # php-math-captcha
 A simple math-based captcha, licensed under the permissive ISC license, and written entirely in with 0 dependencies.
+
+![image](https://user-images.githubusercontent.com/76186054/234424702-8d731d4f-1e04-41fa-a472-43f8a5b8118e.png)
 ## Installation
 Just copy `src/mathcaptcha.php` somewhere on your server!
 ## Requirements
