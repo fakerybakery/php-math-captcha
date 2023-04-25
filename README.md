@@ -28,6 +28,13 @@ $captcha->getImage();
 $captcha->displayImage();
 ```
 ### Examples
+#### Basic example:
+```php
+include 'wherever-you-put-mathcaptcha.php';
+$captcha = new Captcha();
+$captcha->displayImage();
+```
+More examples are coming soon.
 More examples are available in the `examples` directory.
 ## Support
 Need help? Please create a GitHub Issue.
