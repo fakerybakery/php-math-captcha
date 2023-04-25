@@ -16,7 +16,7 @@ Can you solve it? (No calculators allowed!)
  
  = 73\*48 (OK fine you can use a calculator on this one)
  
- = 3504
+ **= 3504**
  
 </details>
 
