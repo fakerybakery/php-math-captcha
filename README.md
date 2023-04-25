@@ -1,5 +1,6 @@
 # php-math-captcha
-A simple math-based captcha, licensed under the permissive ISC license, and written entirely in with 0 dependencies.
+
+Make captchas harder for bots! This library not only foils advanced AI OCR, but also requires the bot to solve math! Traditional captcha solvers may give a result such as "241\*33." But humans would understand this captcha and enter "7953" instead.
 
 ![image](https://user-images.githubusercontent.com/76186054/234424702-8d731d4f-1e04-41fa-a472-43f8a5b8118e.png)
 
@@ -19,6 +20,11 @@ Can you solve it? (No calculators allowed!)
  **= 3504**
  
 </details>
+
+## Features
+
+ - Foils even the most advanced OCRs, even ones specifically designed to solve captchas ([this](https://huggingface.co/spaces/keras-io/ocr-for-captcha) gives "77777", [this](https://www.onlineocr.net/) cannot recognize it, Tesseract OCR gives nothing
+ - Even if an OCR is able to read the captcha, the bot won't know that it's supposed to actually *solve* the math problem
 
 ## Installation
 Just copy `src/mathcaptcha.php` somewhere on your server!
