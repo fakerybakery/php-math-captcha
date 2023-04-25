@@ -25,6 +25,7 @@ Can you solve it? (No calculators allowed!)
 
  - Foils even the most advanced OCRs, even ones specifically designed to solve captchas ([this](https://huggingface.co/spaces/keras-io/ocr-for-captcha) gives "77777", [this](https://www.onlineocr.net/) cannot recognize it, Tesseract OCR gives nothing
  - Even if an OCR is able to read the captcha, the bot won't know that it's supposed to actually *solve* the math problem
+ - Protect the privacy of your users! Host your captchas on your own servers, with your own branding!
 
 ## Installation
 Just copy `src/mathcaptcha.php` somewhere on your server!
