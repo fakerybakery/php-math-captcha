@@ -80,4 +80,4 @@ The following software may be bundled in this software. These may be differently
  - [ ] Add more options for customization, e.g. fonts, size, rotation, color, etc
 Have a feature request? Please make a GitHub Issue!
 ## License
-This package is licensed under the ISC license.
+This package is licensed under the GPLv3 license.
